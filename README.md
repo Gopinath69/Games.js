@@ -1,2 +1,2 @@
-# Using html,css and javascript.
-try and enjoythe games.
+# Using html, css and javascript.
+Try to Learn from my Repository (Games.js) and enjoy the games.
